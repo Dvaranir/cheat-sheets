@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1c698eaae6b111",
+        "id": "5a6617bf0ae4b69f",
         "type": "tabs",
         "children": [
           {
-            "id": "f2450b2b38362a52",
+            "id": "0a114b93751deb1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS/Linux/Server Based.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "502b7c498afa6910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/Linux/Resque mode.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS/Linux/Resque mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OS/Linux/Resque mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OS/Linux/Resque mode.md"
+              }
             }
           }
         ]
@@ -128,6 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2450b2b38362a52",
-  "lastOpenFiles": []
+  "active": "502b7c498afa6910",
+  "lastOpenFiles": [
+    "OS/Linux/Server Based.md",
+    "Apps/Git/Git.md",
+    "Apps/Docker/Docker.md",
+    "Apps/Browsers/Global.md",
+    "Languages/PHP/Frameworks/Laravel.md",
+    "Languages/PHP/Frameworks/Laravel/Untitled.md",
+    "Languages/Bash.md",
+    "Languages/Python3/Frameworks/Django/Models.md",
+    "Languages/Python3/Frameworks/Django/Django.md",
+    "Languages/Python3/Python3.md"
+  ]
 }
