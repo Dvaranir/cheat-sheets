@@ -22,3 +22,16 @@ ssh -i /home/shop/.ssh/itsupport_git -o IdentitiesOnly=yes' git pull
 git fetch
 git reset --hard
 ```
+
+## Remove files from git history
+```bash
+git filter-branch --tree-filter 'rm -f <path_to_file>' HEAD
+git push origin --force --all
+```
+
+## Reset branch with remote changes
+```bash
+git fetch --all
+git branch backup-master
+git reset --hard origin/master
+```
