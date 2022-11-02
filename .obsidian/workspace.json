@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Windows 10/WSL/Common.md",
+                "file": "Apps/Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Windows 10/WSL/Common.md",
+                "file": "Apps/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Windows 10/WSL/Common.md",
+                "file": "Apps/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Windows 10/WSL/Common.md"
+                "file": "Apps/Git/Git.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "446854626e2a9c5d",
   "lastOpenFiles": [
+    "Apps/Docker/Docker.md",
+    "Apps/Browsers/Global.md",
+    "OS/Windows 10/WSL/Common.md",
     "OS/Windows 10/Common.md",
     "OS/Linux/Server Based.md",
     "Apps/Git/Git.md",
     "Languages/Bash.md",
     "Other/CSS/Preprocessors/SCSS.md",
     "Databases/MySQL.md",
-    "Languages/Typescript/Compiler Settings.md",
-    "Languages/PHP/PHP.md",
-    "Languages/PHP/Frameworks/Laravel.md",
-    "Apps/Web Servers/Apache2.md"
+    "Languages/Typescript/Compiler Settings.md"
   ]
 }

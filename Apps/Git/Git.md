@@ -1,6 +1,6 @@
 ## Create a branch and choose it
 ```bash
-git checkout -b "branch name"
+git checkout -b "BRANCH_NAME"
 ```
 
 ## Attach project to git remote
@@ -14,13 +14,7 @@ git push -u -f origin master
 
 ## Pull with target shh key
 ```bash
-ssh -i /home/shop/.ssh/itsupport_git -o IdentitiesOnly=yes' git pull
-```
-
-## Reset local project with remote changes
-```bash
-git fetch
-git reset --hard
+ssh -i PATH_TO_SSH_KEY -o IdentitiesOnly=yes' git pull
 ```
 
 ## Remove files from git history
