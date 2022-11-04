@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apps/Git/Git.md",
+                "file": "Languages/Python3/Python3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apps/Git/Git.md",
+                "file": "Languages/Python3/Python3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apps/Git/Git.md",
+                "file": "Languages/Python3/Python3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apps/Git/Git.md"
+                "file": "Languages/Python3/Python3.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   },
   "active": "446854626e2a9c5d",
   "lastOpenFiles": [
-    "Apps/Docker/Docker.md",
     "Apps/Browsers/Global.md",
+    "Apps/Git/Git.md",
+    "Apps/Docker/Docker.md",
     "OS/Windows 10/WSL/Common.md",
     "OS/Windows 10/Common.md",
     "OS/Linux/Server Based.md",
-    "Apps/Git/Git.md",
     "Languages/Bash.md",
     "Other/CSS/Preprocessors/SCSS.md",
     "Databases/MySQL.md",
