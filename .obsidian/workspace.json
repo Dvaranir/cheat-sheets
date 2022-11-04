@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python3/Python3.md",
+                "file": "Languages/PHP/Frameworks/Laravel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9fc51cb4748aa5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/PHP/Debug.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python3/Python3.md",
+                "file": "Languages/PHP/Debug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python3/Python3.md",
+                "file": "Languages/PHP/Debug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python3/Python3.md"
+                "file": "Languages/PHP/Debug.md"
               }
             }
           }
@@ -149,8 +161,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "446854626e2a9c5d",
+  "active": "17c6aa3a062e2082",
   "lastOpenFiles": [
+    "Languages/PHP/Frameworks/Laravel.md",
+    "Languages/Python3/Python3.md",
     "Apps/Browsers/Global.md",
     "Apps/Git/Git.md",
     "Apps/Docker/Docker.md",
@@ -158,8 +172,6 @@
     "OS/Windows 10/Common.md",
     "OS/Linux/Server Based.md",
     "Languages/Bash.md",
-    "Other/CSS/Preprocessors/SCSS.md",
-    "Databases/MySQL.md",
-    "Languages/Typescript/Compiler Settings.md"
+    "Other/CSS/Preprocessors/SCSS.md"
   ]
 }
