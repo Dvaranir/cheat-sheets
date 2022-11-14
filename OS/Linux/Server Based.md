@@ -1,3 +1,8 @@
+## Get distro information
+```bash
+cat /etc/*-release
+```
+
 ## Change PHP version in Linux and apashe2
 ```bash
 sudo a2dismod php7.4
