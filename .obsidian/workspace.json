@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saved Topics/Hacking/CSS Keylogger.md",
+                "file": "OS/Linux/Server Based.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cb2e73babd9a6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/Linux/Web Panels/Aapanel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Saved Topics/Hacking/CSS Keylogger.md",
+                "file": "OS/Linux/Web Panels/Aapanel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Saved Topics/Hacking/CSS Keylogger.md",
+                "file": "OS/Linux/Web Panels/Aapanel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Saved Topics/Hacking/CSS Keylogger.md"
+                "file": "OS/Linux/Web Panels/Aapanel.md"
               }
             }
           }
@@ -161,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "885a0b5864a35a61",
+  "active": "2cb2e73babd9a6d7",
   "lastOpenFiles": [
     "OS/Linux/Server Based.md",
     "OS/Linux/Resque mode.md",
     "Apps/Git/Git.md",
+    "Saved Topics/Hacking/CSS Keylogger.md",
     "Apps/Docker/Docker.md",
     "Apps/Browsers/Global.md",
     "Other/CSS/Preprocessors/SCSS.md",
     "OS/Windows 10/Common.md",
     "OS/Windows 10/WSL/Common.md",
-    "Languages/PHP/Frameworks/Laravel.md",
-    "Languages/Python3/Python3.md"
+    "Languages/PHP/Frameworks/Laravel.md"
   ]
 }

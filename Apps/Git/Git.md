@@ -14,7 +14,7 @@ git push -u -f origin master
 
 ## Pull with target shh key
 ```bash
-ssh -i PATH_TO_SSH_KEY -o IdentitiesOnly=yes' git pull
+GIT_SSH_COMMAND='ssh -i PATH_TO_KEY -o IdentitiesOnly=yes' git pull
 ```
 
 ## Remove files from git history
