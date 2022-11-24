@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/CSS/Fixes/Strange Font Possible Fix.md",
+                "file": "OS/Linux/Server Based.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "179615b3007d219b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/Linux/Systemd/Basic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/CSS/Fixes/Strange Font Possible Fix.md",
+                "file": "OS/Linux/Systemd/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/CSS/Fixes/Strange Font Possible Fix.md",
+                "file": "OS/Linux/Systemd/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/CSS/Fixes/Strange Font Possible Fix.md"
+                "file": "OS/Linux/Systemd/Basic.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ceafa7e20a77a680",
+  "active": "179615b3007d219b",
   "lastOpenFiles": [
-    "Languages/PHP/Debug.md",
     "OS/Linux/Server Based.md",
+    "Languages/CSS/Fixes/Strange Font Possible Fix.md",
+    "Languages/PHP/Debug.md",
     "OS/Linux/Resque mode.md",
     "OS/Linux/Web Panels/Aapanel.md",
     "Apps/Git/Git.md",
     "Saved Topics/Hacking/CSS Keylogger.md",
     "Apps/Docker/Docker.md",
     "Apps/Browsers/Global.md",
-    "Languages/CSS/Preprocessors/SCSS.md",
-    "OS/Windows 10/Common.md"
+    "Languages/CSS/Preprocessors/SCSS.md"
   ]
 }
