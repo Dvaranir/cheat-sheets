@@ -19,13 +19,16 @@ sudo nano /etc/systemd/system/NEW_SERVICE_NAME.service
 ```
 ### Inside new service
 ```
-[Unit]  
-Description=My test service  
-After=multi-user.target[Service]  
-Type=simple  
-Restart=always  
-ExecStart=/usr/bin/python3 /home/<username>/PROGRAM.py[Install]  
+[Unit]
+Description=My test service
+After=multi-user.target
+[Service]
+Type=simple
+Restart=always
+ExecStart=/home/telegram-bot/letit-telegram-bot/venv/bin/python3 /home/telegram-bot/letit-telegram-bot/Index.py
+[Install]
 WantedBy=multi-user.target
+
 ```
 ### Next step
 ```bash
@@ -40,5 +43,13 @@ sudo systemctl start SERVICE_NAME.service
 
 ## Check if service is running by script
 ```bash
-systemctl is-active --quiet service && DO SOMETHING
+systemctl is-active --quiet SERVICE && DO_SOMETHING_IF_RUNNING || DO_SOMETHING_IF_NOT_RUNNING
+```
+#### Example
+```bash
+systemctl is-active --quiet telegram-bot.service && echo "Bot is running" || systemctl start telegram-bot.service
+```
+## Show logs
+```bash
+journalctl -u SERVICE_NAME.service
 ```
