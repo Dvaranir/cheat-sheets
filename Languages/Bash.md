@@ -2,5 +2,10 @@
 ```bash
 find . ! -name "*STRING*" -print
 ```
-
+## Clean all files except some
+```bash
+#! /bin/bash
+shopt -s extglob
+rm -v !("FILENAME_TO_KEEP"|".gitignore")
+```
 

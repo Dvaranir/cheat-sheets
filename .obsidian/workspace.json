@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e8a0163d5e1fe8ce",
+        "id": "5977742b87a16014",
         "type": "tabs",
         "children": [
           {
-            "id": "ceafa7e20a77a680",
+            "id": "bba4cba83e51bc58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux/Server Based.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "179615b3007d219b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/Linux/Systemd/Basic.md",
+                "file": "Languages/Bash.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/Systemd/Basic.md",
+                "file": "Languages/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/Systemd/Basic.md",
+                "file": "Languages/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux/Systemd/Basic.md"
+                "file": "Languages/Bash.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "179615b3007d219b",
+  "active": "bba4cba83e51bc58",
   "lastOpenFiles": [
-    "Languages/PHP/Frameworks/Laravel.md",
-    "Apps/Ank.md",
     "OS/Linux/Systemd/Basic.md",
-    "OS/Linux/Server Based.md",
-    "Languages/CSS/Fixes/Strange Font Possible Fix.md",
-    "Languages/PHP/Debug.md",
-    "OS/Linux/Resque mode.md",
     "OS/Linux/Web Panels/Aapanel.md",
-    "Apps/Git/Git.md",
-    "Saved Topics/Hacking/CSS Keylogger.md"
+    "Languages/PHP/Frameworks/Laravel.md",
+    "Languages/CSS/Fixes/Strange Font Possible Fix.md",
+    "OS/Windows 10/Common.md",
+    "OS/Windows 10/WSL/Common.md",
+    "OS/Linux/Server Based.md",
+    "OS/Linux/Resque mode.md",
+    "Apps/Ank.md",
+    "Languages/PHP/Debug.md"
   ]
 }

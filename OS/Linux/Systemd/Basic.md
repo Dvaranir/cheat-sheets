@@ -19,16 +19,20 @@ sudo nano /etc/systemd/system/NEW_SERVICE_NAME.service
 ```
 ### Inside new service
 ```
+telegram-bot.service:
 [Unit]
-Description=My test service
-After=multi-user.target
+Description=telegram-bot
+After=network.target
+
 [Service]
-Type=simple
-Restart=always
+User=telegram-bot
+
+WorkingDirectory=/home/telegram-bot/letit-telegram-bot/
+Environment="PYTHONPATH=/home/telegram-bot/"
 ExecStart=/home/telegram-bot/letit-telegram-bot/venv/bin/python3 /home/telegram-bot/letit-telegram-bot/Index.py
+
 [Install]
 WantedBy=multi-user.target
-
 ```
 ### Next step
 ```bash
