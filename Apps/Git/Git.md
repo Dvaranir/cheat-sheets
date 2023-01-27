@@ -29,3 +29,8 @@ git fetch --all
 git branch backup-master
 git reset --hard origin/master
 ```
+
+## One line git command with username and token
+```bash
+git push https://USERNAME:TOKEN@github.com/REPO --all
+```
