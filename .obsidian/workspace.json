@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5977742b87a16014",
+        "id": "6558655919db756d",
         "type": "tabs",
         "children": [
           {
-            "id": "bba4cba83e51bc58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/PHP/PHP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa350b44eb88bbe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/Linux/Systemd/Basic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0c8e811a629c83e",
+            "id": "cae66f3959e48f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0c8e811a629c83e",
+  "active": "cae66f3959e48f3f",
   "lastOpenFiles": [
-    "Apps/Web Servers/Apache2.md",
-    "Languages/PHP/Frameworks/Laravel.md",
     "Languages/PHP/PHP.md",
     "OS/Linux/Systemd/Basic.md",
+    "Languages/HTML/Hide Watch On Youtube.md",
+    "Apps/Git/Git.md",
+    "Apps/Browsers/Global.md",
+    "Apps/Docker/Docker.md",
+    "Apps/Web Servers/Apache2.md",
+    "Languages/PHP/Frameworks/Laravel.md",
     "Languages/Bash.md",
-    "Languages/PHP/Debug.md",
-    "Databases/MySQL.md",
-    "Languages/Python3/Python3.md",
-    "OS/Linux/Web Panels/Aapanel.md",
-    "Languages/CSS/Fixes/Strange Font Possible Fix.md"
+    "Languages/PHP/Debug.md"
   ]
 }
