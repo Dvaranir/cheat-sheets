@@ -19,3 +19,8 @@ nslookup URL DNS_SERVER_IP
 ```bash
 nslookup google.com 8.8.8.8
 ```
+
+#### Check NSes that machine use
+```bash
+cat /etc/resolv.conf
+```
