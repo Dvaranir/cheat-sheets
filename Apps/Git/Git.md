@@ -17,6 +17,11 @@ git push -u -f origin master
 GIT_SSH_COMMAND='ssh -i PATH_TO_KEY -o IdentitiesOnly=yes' git pull
 ```
 
+## Set all connections from current local git repo to remote repository with target SSH key
+```bash
+git config core.sshCommand "ssh -i /home/toxesfoxes/.ssh/okaylensmark -o IdentitiesOnly=yes"
+```
+
 ## Remove files from git history
 ```bash
 git filter-branch --tree-filter 'rm -f <path_to_file>' HEAD
