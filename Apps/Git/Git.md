@@ -39,3 +39,8 @@ git reset --hard origin/master
 ```bash
 git push https://USERNAME:TOKEN@github.com/REPO --all
 ```
+
+## Forbid push
+```bash
+git remote set-url --push origin no_push
+```
